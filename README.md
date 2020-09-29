@@ -8,7 +8,7 @@ After spending several weeks on studying the theory behind Deep Learning and Neu
 
 ### Project Updates
 
-September 2020:
+[09-2020]
  - preprocessed the data
  - built a dataset and dataloader
  - built a baseline model (NN with two fully connected layers)
