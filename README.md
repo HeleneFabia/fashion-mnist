@@ -11,4 +11,4 @@ After spending several weeks on studying the theory behind Deep Learning and Neu
 [09-2020]
  - preprocessed the data
  - built a dataset and dataloader
- - built a baseline model (NN with two fully connected layers)
+ - built a baseline model (NN with two fully connected layers, `num_epochs = 30`, `learning_rate = 0.1)
