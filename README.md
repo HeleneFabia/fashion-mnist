@@ -6,12 +6,15 @@ After spending several weeks on studying the theory behind Deep Learning and Neu
   <img width="350" height="250" src="https://cdn.pixabay.com/photo/2016/03/31/23/37/blouse-1297721_960_720.png">
 </p>
 
-### Project Updates
+***
+
+#### Project updates
 
 [09-2020]
- - preprocessed the data
- - built a dataset and dataloader
- - built a baseline model (NN with two fully connected layers) 
+ - preprocessing the data
+ - building a dataset and dataloader
+ - building a baseline model (NN with two fully connected layers) 
 
+***
 
 Have a look at [my notebook](https://github.com/HeleneFabia/fashion-mnist/blob/master/fashionmnist.ipynb) for more details! 
