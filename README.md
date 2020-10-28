@@ -73,4 +73,4 @@ Furthermore, the worst 25 predictions (i.e. when the model output a wrong predic
 
 ***
 
-Have a look at [my notebook](https://github.com/HeleneFabia/fashion-mnist/blob/master/fashionmnist.ipynb) for more details! 
+Have a look at [my notebook](https://github.com/HeleneFabia/fashion-mnist/blob/master/fashion-mnist-cnn.ipynb) for more details! 
