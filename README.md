@@ -10,15 +10,15 @@ After spending several weeks on studying the theory behind Deep Learning and Neu
 
 #### Project updates
 
-[09-2020]
- - preprocessing the data
- - building a dataset and dataloader
- - building a baseline model (NN with two fully connected layers) 
- 
- [10-2020]
+[10-2020]
  - conducting experiments with various different CNN models 
  - testing the best model on the test set
  - evaluating the results
+ 
+ [09-2020]
+ - preprocessing the data
+ - building a dataset and dataloader
+ - building a baseline model (NN with two fully connected layers) 
  
 ***
 
