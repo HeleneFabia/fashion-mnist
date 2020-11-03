@@ -41,7 +41,7 @@ The model achieved 92.27% accuracy on the set set. In order to look at the weakn
   <img width="400" height="300" src="https://github.com/HeleneFabia/fashion-mnist/blob/master/images/confusion_matrix.png">
 </p>
 
-Here it can be seen that the model often confuses shirts with t-shirts, pullovers, coats, and sometimes also dresses.
+Above it can be seen that the model often confuses shirts with t-shirts, pullovers, coats, and sometimes also dresses.
 
 <p align="left">
   <img width="720" height="550" src="https://github.com/HeleneFabia/fashion-mnist/blob/master/images/top_25_wrong_preds.png">
@@ -54,8 +54,8 @@ Furthermore, the worst 25 predictions (i.e. when the model output a wrong predic
 #### Next steps and ideas for improvement
 
 - using k-fold cross validation to select the best model
-- Using data augmentation to increase the size of the training set
-- Using a pre-trained model such as ResNet 
+- using data augmentation to increase the size of the training set
+- using a pre-trained model such as ResNet 
 
 ***
 
