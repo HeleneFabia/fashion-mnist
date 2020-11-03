@@ -8,20 +8,6 @@ After spending several weeks on studying the theory behind Deep Learning and Neu
 
 ***
 
-#### Project updates
-
-[10-2020]
- - conducting experiments with various different CNN models 
- - testing the best model on the test set
- - evaluating the results
- 
- [09-2020]
- - preprocessing the data
- - building a dataset and dataloader
- - building a baseline model (NN with two fully connected layers) 
- 
-***
-
 #### The dataset
 The images used for this project are 28x28x1 images of clothing items on the online selling platform Zalando. The dataset includes 70,000 images, split into a training and a test set. The images are labeled according to 10 classes: t-shirt, trouser, pullover, dress, coat, sandal, shirt, sneaker, bag and ankle boot.
 
