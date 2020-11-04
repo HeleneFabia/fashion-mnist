@@ -3,7 +3,7 @@
 After spending several weeks on studying the theory behind Deep Learning and Neural Network (and specifically, Convolutional Neural Networks), I wanted to get hands-on experience and practice implementing NNs and CNNs with PyTorch. The dataset I use for this project is [fashionMNIST](https://www.kaggle.com/zalando-research/fashionmnist), which has the same properties as the famous MNIST dataset, but uses pictures of ten types of Zalando articles instead of hand-written digits.
 
 <p align="center">
-  <img width="350" height="250" src="https://cdn.pixabay.com/photo/2016/03/31/23/37/blouse-1297721_960_720.png">
+  <img width="350" height="250" src="https://github.com/HeleneFabia/fashion-mnist/blob/master/images/fashion-1031469_960_720.jpg">
 </p>
 
 ***
@@ -60,3 +60,6 @@ Furthermore, the worst 25 predictions (i.e. when the model output a wrong predic
 ***
 
 Have a look at [my notebook](https://github.com/HeleneFabia/fashion-mnist/blob/master/fashion-mnist-cnn.ipynb) for more details! 
+<p align="center">
+  <img width="350" height="250" src="https://cdn.pixabay.com/photo/2016/03/31/23/37/blouse-1297721_960_720.png">
+</p>
